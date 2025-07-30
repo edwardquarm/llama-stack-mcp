@@ -14,10 +14,16 @@ Once the server is running, you can interact with it using HTTP requests (e.g., 
 
 ## Running a Python File
 
-To run a Python file, use:
+To run the Python file, use:
 
 ```sh
 python prompt.py
+```
+
+This should produce the following output:
+
+```
+Hello! How can I assist you today?
 ```
 
 Replace `prompt.py` with the name of your Python script if different.
